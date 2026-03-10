@@ -50,13 +50,13 @@ This project focuses on analyzing a video game sales dataset to uncover trends i
 
 ## Visuals  
 ### Distribution of Global Sales  
-![Distribution of Global Sales](global_sales_histogram.png)
+![Distribution of Global Sales](pics/hist.png)
 
 ### Video Game Sales Each Year By Country  
-![Sales by Country](sales_each_year_by_country.png)
+![Sales by Country](pics/bargraph.png)
 
 ### Platform Company vs Global Sales  
-![Platform Company Scatterplot](platform_company_scatterplot.png)
+![Platform Company Scatterplot](pics/scatter1.png)
 
 ## Recommendations  
 1. **Focus on Strong Regions**  
